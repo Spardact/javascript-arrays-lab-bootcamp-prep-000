@@ -1,6 +1,4 @@
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
-function destructivelyAppendKitten() {
-  slice
-
+function destructivelyAppendKitten('Ralph') {
 }
